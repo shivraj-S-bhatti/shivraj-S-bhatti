@@ -19,7 +19,7 @@
 
 - 🧠 **[Meridian](https://github.com/shivraj-S-bhatti/Meridian)** - Web-scale IPO evidence compiler (C++ data plane + Python control plane + scoring API).
 - 🛰️ **[stashy](https://github.com/shivraj-S-bhatti/stashy)** - Geospatial ingestion fabric with agentic frontier expansion and adaptive scheduling.
-- 🏫 **[CampusCommons-starter-college-web-platform](https://github.com/shivraj-S-bhatti/CampusCommons-starter-college-web-platform)** - Modular React + Spring Boot campus platform starter.
+- 🏫 **[CampusCommons-starter-college-web-platform](https://github.com/shivraj-S-bhatti/CampusCommons-starter-college-web-platform)** - Modular React, Spring Boot, EC2, nginx campus platform starter.
 - 🎯 **[streamlens](https://github.com/shivraj-S-bhatti/streamlens)** - Session-aware ranking + auction simulator with replay and ablation tooling.
 - 🤖 **[RobotArmSegmentation](https://github.com/shivraj-S-bhatti/RobotArmSegmentation)** - Benchmark pipeline for robot-arm segmentation on DROID-style episodes.
 - 🧪 **[simgen](https://github.com/shivraj-S-bhatti/simgen)** - Genesis-based simulation tasks for Franka manipulation.
