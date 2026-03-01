@@ -32,8 +32,8 @@
 
 ## Product, Research, and Utility Portfolio
 
-- 🛒 **[umass-marketplace](https://github.com/shivraj-S-bhatti/umass-marketplace)** - Student-only private campus marketplace platform.
-- 📈 **[520-assignment-1](https://github.com/shivraj-S-bhatti/520-assignment-1)** - LLM code generation evaluation benchmark.
+- 🛒 **[umass-marketplace](https://github.com/shivraj-S-bhatti/code-gen-bench)** - Student-only private campus marketplace platform.
+- 📈 **[Code-Gen-Bench](https://github.com/shivraj-S-bhatti/520-assignment-1)** - LLM code generation evaluation benchmark.
 - 📨 **[ReportGen](https://github.com/shivraj-S-bhatti/ReportGen)** - LLM-based email report generation bot.
 - ✅ **[dq_automation](https://github.com/shivraj-S-bhatti/dq_automation)** - SOTA data quality automation experiments.
 - 🧩 **[crm_poc](https://github.com/shivraj-S-bhatti/crm_poc)** - React + TypeScript CRM proof of concept.
