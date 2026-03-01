@@ -1,6 +1,6 @@
 # Hi, I'm Shivraj 👋
 
-📍 **Massachusetts** | 🤖 **Applied AI + ML Systems Engineer** | 🎓 **CS Grad Student** | 💼 **ex-JPMorgan Chase**
+📍 **Massachusetts** | 🤖 **Applied AI + ML Systems Engineer** | 🎓 **CS Grad Student** | 💼 **ex-SDE II JPMorgan Chase**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
